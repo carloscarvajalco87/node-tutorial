@@ -4,7 +4,8 @@
   "description": "a sample node application",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "tsc && node dist/index"
   },
   "author": "charlie c.",
   "license": "ISC",
